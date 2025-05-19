@@ -1,0 +1,38 @@
+[
+  {
+    "nome": "Dragão",
+    "força": 90,
+    "velocidade": 70,
+    "inteligência": 60
+  },
+  {
+    "nome": "Fada",
+    "força": 30,
+    "velocidade": 90,
+    "inteligência": 80
+  },
+  {
+    "nome": "Cavaleiro",
+    "força": 75,
+    "velocidade": 65,
+    "inteligência": 55
+  },
+  {
+    "nome": "Gigante",
+    "força": 85,
+    "velocidade": 40,
+    "inteligência": 30
+  },
+  {
+    "nome": "Mago",
+    "força": 60,
+    "velocidade": 50,
+    "inteligência": 95
+  },
+  {
+    "nome": "Lobo",
+    "força": 50,
+    "velocidade": 80,
+    "inteligência": 45
+  }
+]
