@@ -6,12 +6,16 @@ Este projeto é um jogo de cartas estilo Super Trunfo, jogado no terminal. Cada 
 
 1. Clone o repositório:
 
+```bash
 git clone https://github.com/andreyysm/super-trunfo.git
 cd super-trunfo
+```
 
 2. Execute o jogo:
 
+```bash
 python main.py
+```
 
 3. Escolha atributos a cada rodada e tente vencer o jogo!
 
