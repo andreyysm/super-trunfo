@@ -6,7 +6,7 @@ Este projeto é um jogo de cartas estilo Super Trunfo, jogado no terminal. Cada 
 
 1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/super-trunfo.git
+git clone https://github.com/andreyysm/super-trunfo.git
 cd super-trunfo
 
 2. Execute o jogo:
